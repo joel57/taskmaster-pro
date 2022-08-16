@@ -1,6 +1,6 @@
 # Taskmaster Pro
 
-
+A responsive task manager.
 
 
 ## Technology
@@ -13,10 +13,11 @@
 
 ### Image
 
+<img src="./assets/images/taskmaster%20pro.png">
 
 ### Link
 
-
+https://joel57.github.io/taskmaster-pro/
 
 #### Docs
 
